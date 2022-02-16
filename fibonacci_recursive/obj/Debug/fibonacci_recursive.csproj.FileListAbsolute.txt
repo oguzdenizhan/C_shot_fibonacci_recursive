@@ -1,0 +1,7 @@
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\fibonacci_recursive\bin\Debug\fibonacci_recursive.exe.config
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\fibonacci_recursive\bin\Debug\fibonacci_recursive.exe
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\fibonacci_recursive\bin\Debug\fibonacci_recursive.pdb
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\fibonacci_recursive\obj\Debug\fibonacci_recursive.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\fibonacci_recursive\obj\Debug\fibonacci_recursive.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\fibonacci_recursive\obj\Debug\fibonacci_recursive.exe
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\fibonacci_recursive\obj\Debug\fibonacci_recursive.pdb
